@@ -1,0 +1,311 @@
+[
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703141115,
+            "changeTime": 1521703141115,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703141116,
+            "changeTime": 1521703141116,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703736195,
+            "changeTime": 1521703736195,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703141116,
+            "changeTime": 1521703141116,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703736189,
+            "changeTime": 1521703736189,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1521703736183,
+            "changeTime": 1521703736183,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1521703736189,
+            "changeTime": 1521703736189,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1521703736169,
+            "changeTime": 1521703736169,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1521703736175,
+            "changeTime": 1521703736175,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703736159,
+            "changeTime": 1521703736159,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521704769005,
+            "changeTime": 1521704769005,
+            "contentHash": "c5969b9c985ca395a81da87a6334b04dd42cfe9f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703736160,
+            "changeTime": 1521703736160,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1521703736160,
+            "changeTime": 1521703736160,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703736230,
+            "changeTime": 1521703736230,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17636,
+            "modifiedTime": 1521703736201,
+            "changeTime": 1521703736201,
+            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4596,
+            "modifiedTime": 1521703736230,
+            "changeTime": 1521703736230,
+            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4592,
+            "modifiedTime": 1521703736215,
+            "changeTime": 1521703736215,
+            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4932,
+            "modifiedTime": 1521703736210,
+            "changeTime": 1521703736210,
+            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521703234215,
+            "changeTime": 1521703234215,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\validationRules\\Name_is_required.validationRule-meta.xml",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\validationRules\\Name_is_required.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 325,
+            "modifiedTime": 1521704769006,
+            "changeTime": 1521704769006,
+            "contentHash": "380398864857e95ef0ad7107c7570d7d03b2e4d9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\validationRules",
+        {
+            "sourcePath": "E:\\nipun data bkp\\Grazitti\\Scheduler\\Grazitti Internal\\Dx Setup\\Projects\\DXSetup\\force-app\\main\\default\\objects\\Account\\validationRules",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521704769006,
+            "changeTime": 1521704769006,
+            "contentHash": "07af3570993b577ccb2ad3739a4f52cc3bd05131",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
